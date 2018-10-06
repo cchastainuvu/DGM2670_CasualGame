@@ -16,22 +16,59 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NameID.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Draggable.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
               <folding>
-                <marker date="1538849741613" expanded="true" signature="59:262" ph="/* We don't want to rely on tags, because then we will have to create an &quot;if&quot; statement for each tag. ... */" />
+                <marker date="1538854648988" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538854648988" expanded="true" signature="118:698" ph="{...}" />
+                <marker date="1538854648988" expanded="true" signature="225:317" ph="{...}" />
+                <marker date="1538854648988" expanded="true" signature="346:438" ph="{...}" />
+                <marker date="1538854648988" expanded="true" signature="459:696" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NameID.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+      <file leaf-file-name="TriggerID.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="255">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
               <folding>
-                <marker date="1538850001283" expanded="true" signature="6:78" ph="..." />
-                <marker date="1538850001283" expanded="true" signature="137:272" ph="/* Will not be using the name as an ID, we're just going to name it. ... */" />
-                <marker date="1538850001283" expanded="true" signature="272:275" ph="{...}" />
+                <marker date="1538856614560" expanded="true" signature="6:44" ph="..." />
+                <marker date="1538856614560" expanded="true" signature="84:390" ph="{...}" />
+                <marker date="1538856614560" expanded="true" signature="186:388" ph="{...}" />
+                <marker date="1538856614560" expanded="true" signature="245:323" ph="{...}" />
+                <marker date="1538856614560" expanded="true" signature="336:382" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ObjectID.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+              <folding>
+                <marker date="1538856088981" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538856088981" expanded="true" signature="117:143" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -43,7 +80,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -51,10 +91,13 @@
       <list>
         <option value="$PROJECT_DIR$/Assets/Notes/Notes1006.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Draggable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="125" />
     <option name="width" value="1440" />
@@ -114,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538849396062</updated>
-      <workItem from="1538849401362" duration="1195000" />
+      <workItem from="1538849401362" duration="4706000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1195000" />
+    <option name="totallyTimeSpent" value="4706000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -131,7 +174,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -166,20 +209,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <marker date="1538849741613" expanded="true" signature="59:262" ph="/* We don't want to rely on tags, because then we will have to create an &quot;if&quot; statement for each tag. ... */" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
           <folding>
-            <marker date="1538850001283" expanded="true" signature="6:78" ph="..." />
-            <marker date="1538850001283" expanded="true" signature="137:272" ph="/* Will not be using the name as an ID, we're just going to name it. ... */" />
-            <marker date="1538850001283" expanded="true" signature="272:275" ph="{...}" />
+            <marker date="1538854648988" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538854648988" expanded="true" signature="118:698" ph="{...}" />
+            <marker date="1538854648988" expanded="true" signature="225:317" ph="{...}" />
+            <marker date="1538854648988" expanded="true" signature="346:438" ph="{...}" />
+            <marker date="1538854648988" expanded="true" signature="459:696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1538856088981" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538856088981" expanded="true" signature="117:143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <marker date="1538856614560" expanded="true" signature="6:44" ph="..." />
+            <marker date="1538856614560" expanded="true" signature="84:390" ph="{...}" />
+            <marker date="1538856614560" expanded="true" signature="186:388" ph="{...}" />
+            <marker date="1538856614560" expanded="true" signature="245:323" ph="{...}" />
+            <marker date="1538856614560" expanded="true" signature="336:382" ph="{...}" />
           </folding>
         </state>
       </provider>
