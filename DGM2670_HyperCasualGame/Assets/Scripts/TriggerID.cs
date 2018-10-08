@@ -6,7 +6,7 @@ public class TriggerID : MonoBehaviour
     public NameID ID;
     public UnityEvent OnMatch;
 
-    private void OnTriggerEnter(Collider obj)
+    private void Invoke (Collider obj)
     {
         if ((ID == obj.GetComponent<ObjectID>().ID))
         {

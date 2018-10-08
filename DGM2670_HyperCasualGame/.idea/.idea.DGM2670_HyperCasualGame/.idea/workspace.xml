@@ -10,12 +10,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Notes1006.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="90">
+              <caret line="6" column="102" selection-start-line="6" selection-start-column="102" selection-end-line="6" selection-end-column="102" />
+              <folding>
+                <marker date="1538955589187" expanded="true" signature="59:262" ph="/* We don't want to rely on tags, because then we will have to create an &quot;if&quot; statement for each tag. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notes1007.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Notes/Notes1007.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+              <folding>
+                <marker date="1538957551846" expanded="true" signature="59:377" ph="/* Dependency is a script relying on another object or script's information, like the letter ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChangeColor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <marker date="1538956785280" expanded="true" signature="6:78" ph="..." />
+                <marker date="1538956785280" expanded="true" signature="163:280" ph="{...}" />
+                <marker date="1538956785280" expanded="true" signature="208:278" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -23,8 +52,13 @@
       <file leaf-file-name="NameID.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="105">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <marker date="1538850001283" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538850001283" expanded="true" signature="137:272" ph="/* Will not be using the name as an ID, we're just going to name it. ... */" />
+                <marker date="1538850001283" expanded="true" signature="272:275" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,14 +82,28 @@
       <file leaf-file-name="TriggerID.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            <state relative-caret-position="120">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
-                <marker date="1538856614560" expanded="true" signature="6:44" ph="..." />
-                <marker date="1538856614560" expanded="true" signature="84:390" ph="{...}" />
-                <marker date="1538856614560" expanded="true" signature="186:388" ph="{...}" />
-                <marker date="1538856614560" expanded="true" signature="245:323" ph="{...}" />
-                <marker date="1538856614560" expanded="true" signature="336:382" ph="{...}" />
+                <marker date="1538957793505" expanded="false" signature="6:44" ph="..." />
+                <marker date="1538957793505" expanded="true" signature="84:421" ph="{...}" />
+                <marker date="1538957793505" expanded="true" signature="179:419" ph="{...}" />
+                <marker date="1538957793505" expanded="true" signature="238:316" ph="{...}" />
+                <marker date="1538957793505" expanded="true" signature="367:413" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TriggerEnterEvent.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <marker date="1538957299037" expanded="false" signature="6:78" ph="..." />
+                <marker date="1538957299037" expanded="true" signature="152:271" ph="{...}" />
+                <marker date="1538957299037" expanded="true" signature="233:269" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -83,16 +131,23 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1007.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Notes/Notes1006.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Draggable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectID.cs" />
+        <option value="$PROJECT_DIR$/Assets/Notes/Notes1006.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Notes/Notes1007.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" />
       </list>
     </option>
@@ -157,12 +212,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538849396062</updated>
-      <workItem from="1538849401362" duration="4706000" />
+      <workItem from="1538849401362" duration="5469000" />
+      <workItem from="1538955582935" duration="2221000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4706000" />
+    <option name="totallyTimeSpent" value="7690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,47 +231,67 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12483221" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1261745" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Unity" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1261745" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1538850001283" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538850001283" expanded="true" signature="137:272" ph="/* Will not be using the name as an ID, we're just going to name it. ... */" />
+            <marker date="1538850001283" expanded="true" signature="272:275" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -246,14 +322,126 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
-            <marker date="1538856614560" expanded="true" signature="6:44" ph="..." />
-            <marker date="1538856614560" expanded="true" signature="84:390" ph="{...}" />
-            <marker date="1538856614560" expanded="true" signature="186:388" ph="{...}" />
-            <marker date="1538856614560" expanded="true" signature="245:323" ph="{...}" />
-            <marker date="1538856614560" expanded="true" signature="336:382" ph="{...}" />
+            <marker date="1538957793505" expanded="false" signature="6:44" ph="..." />
+            <marker date="1538957793505" expanded="true" signature="84:421" ph="{...}" />
+            <marker date="1538957793505" expanded="true" signature="179:419" ph="{...}" />
+            <marker date="1538957793505" expanded="true" signature="238:316" ph="{...}" />
+            <marker date="1538957793505" expanded="true" signature="367:413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1538955589187" expanded="true" signature="59:262" ph="/* We don't want to rely on tags, because then we will have to create an &quot;if&quot; statement for each tag. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="102" selection-start-line="6" selection-start-column="102" selection-end-line="6" selection-end-column="102" />
+          <folding>
+            <marker date="1538955589187" expanded="true" signature="59:262" ph="/* We don't want to rely on tags, because then we will have to create an &quot;if&quot; statement for each tag. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerColor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="45" lean-forward="true" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <marker date="1538856088981" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538856088981" expanded="true" signature="117:143" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <marker date="1538854648988" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538854648988" expanded="true" signature="118:698" ph="{...}" />
+            <marker date="1538854648988" expanded="true" signature="225:317" ph="{...}" />
+            <marker date="1538854648988" expanded="true" signature="346:438" ph="{...}" />
+            <marker date="1538854648988" expanded="true" signature="459:696" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1538850001283" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538850001283" expanded="true" signature="137:272" ph="/* Will not be using the name as an ID, we're just going to name it. ... */" />
+            <marker date="1538850001283" expanded="true" signature="272:275" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1538956785280" expanded="true" signature="6:78" ph="..." />
+            <marker date="1538956785280" expanded="true" signature="163:280" ph="{...}" />
+            <marker date="1538956785280" expanded="true" signature="208:278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1538957299037" expanded="false" signature="6:78" ph="..." />
+            <marker date="1538957299037" expanded="true" signature="152:271" ph="{...}" />
+            <marker date="1538957299037" expanded="true" signature="233:269" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Notes/Notes1007.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+          <folding>
+            <marker date="1538957551846" expanded="true" signature="59:377" ph="/* Dependency is a script relying on another object or script's information, like the letter ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerID.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1538957793505" expanded="false" signature="6:44" ph="..." />
+            <marker date="1538957793505" expanded="true" signature="84:421" ph="{...}" />
+            <marker date="1538957793505" expanded="true" signature="179:419" ph="{...}" />
+            <marker date="1538957793505" expanded="true" signature="238:316" ph="{...}" />
+            <marker date="1538957793505" expanded="true" signature="367:413" ph="{...}" />
           </folding>
         </state>
       </provider>

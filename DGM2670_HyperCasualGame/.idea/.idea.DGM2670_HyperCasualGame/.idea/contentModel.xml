@@ -7,11 +7,14 @@
       <e p="Assets" t="Include">
         <e p="Notes" t="Include">
           <e p="Notes1006.cs" t="Include" />
+          <e p="Notes1007.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="ChangeColor.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
           <e p="NameID.cs" t="Include" />
           <e p="ObjectID.cs" t="Include" />
+          <e p="TriggerEnterEvent.cs" t="Include" />
           <e p="TriggerID.cs" t="Include" />
         </e>
       </e>
