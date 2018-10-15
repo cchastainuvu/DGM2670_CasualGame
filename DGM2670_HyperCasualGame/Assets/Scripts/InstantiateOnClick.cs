@@ -8,10 +8,20 @@ public class InstantiateOnClick : MonoBehaviour
 
     public Transform Fill;
     public Transform Space;
+    public bool Filled;
 
     public void OnMouseDown()
     {
-        Instantiate(Fill,Space.transform.position,Space.transform.rotation);
-    }
 
+        if (!Filled)
+        {
+           Instantiate(Fill,Space.transform.position,Space.transform.rotation);
+            Filled = true;
+        }
+
+        if (Filled)
+        {
+            //Intentionally left blank, to prevent multiple instances and waste.
+        }
+    }
 }
