@@ -10,14 +10,16 @@
           <e p="Notes1007.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
-          <e p="ChangeBackground.cs" t="Include" />
           <e p="ChangeColor.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
+          <e p="ID Scripts" t="Include">
+            <e p="NameID.cs" t="Include" />
+            <e p="ObjectID.cs" t="Include" />
+            <e p="TriggerID.cs" t="Include" />
+          </e>
           <e p="InstantiateOnClick.cs" t="Include" />
-          <e p="NameID.cs" t="Include" />
-          <e p="ObjectID.cs" t="Include" />
+          <e p="MouseClickEvent.cs" t="Include" />
           <e p="TriggerEnterEvent.cs" t="Include" />
-          <e p="TriggerID.cs" t="Include" />
         </e>
       </e>
       <e p="DGM2670_HyperCasualGame.sln" t="IncludeFlat" />
