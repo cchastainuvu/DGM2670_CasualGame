@@ -30,8 +30,8 @@
       <file leaf-file-name="InstantiateOnClick.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstantiateOnClick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <marker date="1539582871284" expanded="true" signature="6:104" ph="..." />
                 <marker date="1539582871284" expanded="true" signature="153:551" ph="{...}" />
@@ -43,31 +43,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChangeColor.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
+      <file leaf-file-name="ChangeSprite.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+            <state relative-caret-position="105">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
-                <marker date="1539565660883" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539565660883" expanded="true" signature="163:655" ph="{...}" />
-                <marker date="1539565660883" expanded="true" signature="232:302" ph="{...}" />
-                <marker date="1539565660883" expanded="true" signature="312:499" ph="/* OLD RENDITION ... */" />
-                <marker date="1539565660883" expanded="true" signature="510:648" ph="/* NEW RENDITION ... */" />
+                <marker date="1539584257392" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539584257392" expanded="true" signature="122:242" ph="{...}" />
+                <marker date="1539584257392" expanded="true" signature="168:240" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MouseClickEvent.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ChangeColor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <marker date="1539583345875" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539583345875" expanded="true" signature="163:655" ph="{...}" />
+                <marker date="1539583345875" expanded="true" signature="232:302" ph="{...}" />
+                <marker date="1539583345875" expanded="true" signature="312:499" ph="/* OLD RENDITION ... */" />
+                <marker date="1539583345875" expanded="true" signature="510:648" ph="/* NEW RENDITION ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MouseClickEvent.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseClickEvent.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
-                <marker date="1539583108006" expanded="true" signature="6:104" ph="..." />
-                <marker date="1539583108006" expanded="true" signature="150:253" ph="{...}" />
-                <marker date="1539583108006" expanded="true" signature="214:250" ph="{...}" />
+                <marker date="1539583219451" expanded="true" signature="6:104" ph="..." />
+                <marker date="1539583219451" expanded="true" signature="150:252" ph="{...}" />
+                <marker date="1539583219451" expanded="true" signature="213:249" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -93,13 +107,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1007.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstantiateOnClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseClickEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,16 +126,19 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerColor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Notes/Notes1007.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggerID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DestroyOnClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ChangeBackground.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateOnClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseClickEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneMgr.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="125" />
     <option name="width" value="1440" />
@@ -182,12 +200,12 @@
       <updated>1538849396062</updated>
       <workItem from="1538849401362" duration="5469000" />
       <workItem from="1538955582935" duration="2221000" />
-      <workItem from="1539561574171" duration="11551000" />
+      <workItem from="1539561574171" duration="14300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19241000" />
+    <option name="totallyTimeSpent" value="21990000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,7 +218,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -278,11 +295,11 @@
         <state relative-caret-position="150">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <marker date="1539565660883" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539565660883" expanded="true" signature="163:655" ph="{...}" />
-            <marker date="1539565660883" expanded="true" signature="232:302" ph="{...}" />
-            <marker date="1539565660883" expanded="true" signature="312:499" ph="/* OLD RENDITION ... */" />
-            <marker date="1539565660883" expanded="true" signature="510:648" ph="/* NEW RENDITION ... */" />
+            <marker date="1539583345875" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539583345875" expanded="true" signature="163:655" ph="{...}" />
+            <marker date="1539583345875" expanded="true" signature="232:302" ph="{...}" />
+            <marker date="1539583345875" expanded="true" signature="312:499" ph="/* OLD RENDITION ... */" />
+            <marker date="1539583345875" expanded="true" signature="510:648" ph="/* NEW RENDITION ... */" />
           </folding>
         </state>
       </provider>
@@ -442,20 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstantiateOnClick.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-          <folding>
-            <marker date="1539582871284" expanded="true" signature="6:104" ph="..." />
-            <marker date="1539582871284" expanded="true" signature="153:551" ph="{...}" />
-            <marker date="1539582871284" expanded="true" signature="266:549" ph="{...}" />
-            <marker date="1539582871284" expanded="true" signature="294:421" ph="{...}" />
-            <marker date="1539582871284" expanded="true" signature="442:543" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeBackground.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -475,28 +478,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseClickEvent.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/InstantiateOnClick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <marker date="1539583108006" expanded="true" signature="6:104" ph="..." />
-            <marker date="1539583108006" expanded="true" signature="150:253" ph="{...}" />
-            <marker date="1539583108006" expanded="true" signature="214:250" ph="{...}" />
+            <marker date="1539582871284" expanded="true" signature="6:104" ph="..." />
+            <marker date="1539582871284" expanded="true" signature="153:551" ph="{...}" />
+            <marker date="1539582871284" expanded="true" signature="266:549" ph="{...}" />
+            <marker date="1539582871284" expanded="true" signature="294:421" ph="{...}" />
+            <marker date="1539582871284" expanded="true" signature="442:543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1539584257392" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539584257392" expanded="true" signature="122:242" ph="{...}" />
+            <marker date="1539584257392" expanded="true" signature="168:240" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+        <state relative-caret-position="135">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
-            <marker date="1539565660883" expanded="false" signature="6:78" ph="..." />
-            <marker date="1539565660883" expanded="true" signature="163:655" ph="{...}" />
-            <marker date="1539565660883" expanded="true" signature="232:302" ph="{...}" />
-            <marker date="1539565660883" expanded="true" signature="312:499" ph="/* OLD RENDITION ... */" />
-            <marker date="1539565660883" expanded="true" signature="510:648" ph="/* NEW RENDITION ... */" />
+            <marker date="1539583345875" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539583345875" expanded="true" signature="163:655" ph="{...}" />
+            <marker date="1539583345875" expanded="true" signature="232:302" ph="{...}" />
+            <marker date="1539583345875" expanded="true" signature="312:499" ph="/* OLD RENDITION ... */" />
+            <marker date="1539583345875" expanded="true" signature="510:648" ph="/* NEW RENDITION ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneMgr.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseClickEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1539583219451" expanded="true" signature="6:104" ph="..." />
+            <marker date="1539583219451" expanded="true" signature="150:252" ph="{...}" />
+            <marker date="1539583219451" expanded="true" signature="213:249" ph="{...}" />
           </folding>
         </state>
       </provider>
