@@ -14,6 +14,7 @@
           <e p="ChangeColor.cs" t="Include" />
           <e p="ChangeSprite.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />
