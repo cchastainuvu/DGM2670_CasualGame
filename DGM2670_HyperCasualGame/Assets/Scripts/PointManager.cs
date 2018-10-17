@@ -17,6 +17,7 @@ public class PointManager : MonoBehaviour
         Points.text = count.ToString(CultureInfo.InvariantCulture);
         
         WinText.GetComponent<Text>().enabled = false;
+        
     }
 
     public void AddPoints()
@@ -32,11 +33,12 @@ public class PointManager : MonoBehaviour
         Points.text = count.ToString(CultureInfo.InvariantCulture);
     }
 
-//    public void Win()
-//    {
-//        if (count >= WinScore.value)
-//        {
-//            WinText.GetComponent<Text>().enabled = true;
-//        }
-//    }
+    public void Win()
+    {
+        if (count >= WinScore.value)
+        {
+            WinText.GetComponent<Text>().enabled = true;
+            //STILL A WORK IN PROGRESS.
+        }
+    }
 }

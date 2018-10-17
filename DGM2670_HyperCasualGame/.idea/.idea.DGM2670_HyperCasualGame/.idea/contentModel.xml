@@ -21,6 +21,7 @@
             <e p="TriggerID.cs" t="Include" />
           </e>
           <e p="InstantiateOnClick.cs" t="Include" />
+          <e p="IntData.cs" t="Include" />
           <e p="MouseClickEvent.cs" t="Include" />
           <e p="Objects.cs" t="Include" />
           <e p="PointManager.cs" t="Include" />
