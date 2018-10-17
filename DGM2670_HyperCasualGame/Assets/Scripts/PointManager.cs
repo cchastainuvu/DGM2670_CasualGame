@@ -10,13 +10,20 @@ public class PointManager : MonoBehaviour
 
     void Start()
     {
-        Points = GetComponent<Text>();
         count = 0;
-
+        Points.text = count.ToString();
     }
 
     public void AddPoints()
     {
+        count = count + 10;
+        Points.text = count.ToString();
         
+    }
+
+    public void TakePoints()
+    {
+        count = count - 10;
+        Points.text = count.ToString();
     }
 }
