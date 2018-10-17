@@ -14,18 +14,4 @@ public class TriggerID : MonoBehaviour
             OnMatch.Invoke();
         }
     }
-
-    //NEW RENDITION//
-//    private void Invoke (Collider obj)
-//    {
-//        if ((ID == obj.GetComponent<ObjectID>().ID))
-//        {
-//            OnMatch.Invoke();
-//            print("Match");
-//        }
-//        if (ID != obj.GetComponent<ObjectID>().ID)
-//        {
-//            print("No!");
-//        }
-//    }
 }
