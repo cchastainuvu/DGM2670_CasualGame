@@ -9,7 +9,10 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen.unity
     guid: b5f9fd56059081f43bffb001f24dc8ff
   - enabled: 1
-    path: Assets/Scenes/Nonagram.unity
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 6eb7132f6707a614ea249e54893dc8b1
+  - enabled: 1
+    path: Assets/Scenes/Level001.unity
     guid: 1b50462937e0f5843ac9021c21c2c486
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity

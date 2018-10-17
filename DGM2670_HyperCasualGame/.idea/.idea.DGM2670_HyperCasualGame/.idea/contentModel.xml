@@ -25,6 +25,7 @@
           <e p="Objects.cs" t="Include" />
           <e p="PointManager.cs" t="Include" />
           <e p="SceneMGR.cs" t="Include" />
+          <e p="SoundControl.cs" t="Include" />
           <e p="TriggerEnterEvent.cs" t="Include" />
         </e>
       </e>

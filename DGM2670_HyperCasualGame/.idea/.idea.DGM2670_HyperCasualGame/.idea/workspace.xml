@@ -70,20 +70,18 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PointManager.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PointManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PointManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="555">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
               <folding>
-                <marker date="1539757419977" expanded="false" signature="6:128" ph="..." />
-                <marker date="1539757419977" expanded="true" signature="171:1013" ph="{...}" />
-                <marker date="1539757419977" expanded="true" signature="296:458" ph="{...}" />
-                <marker date="1539757419977" expanded="true" signature="487:604" ph="{...}" />
-                <marker date="1539757419977" expanded="true" signature="634:742" ph="{...}" />
-                <marker date="1539757419977" expanded="true" signature="765:1011" ph="{...}" />
-                <marker date="1539757419977" expanded="true" signature="808:885" ph="{...}" />
-                <marker date="1539757419977" expanded="true" signature="903:1005" ph="{...}" />
+                <marker date="1539757489338" expanded="false" signature="6:128" ph="..." />
+                <marker date="1539757489338" expanded="true" signature="171:907" ph="{...}" />
+                <marker date="1539757489338" expanded="true" signature="296:458" ph="{...}" />
+                <marker date="1539757489338" expanded="true" signature="487:604" ph="{...}" />
+                <marker date="1539757489338" expanded="true" signature="634:742" ph="{...}" />
+                <marker date="1539757489338" expanded="true" signature="744:905" ph="/* public void Win() ... */" />
               </folding>
             </state>
           </provider>
@@ -119,7 +117,35 @@
       </file>
       <file leaf-file-name="SceneMGR.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneMGR.cs">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+              <folding>
+                <marker date="1539759607102" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539759607102" expanded="true" signature="152:325" ph="{...}" />
+                <marker date="1539759607102" expanded="true" signature="204:254" ph="{...}" />
+                <marker date="1539759607102" expanded="true" signature="283:323" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SoundControl.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundControl.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+              <folding>
+                <marker date="1539762640754" expanded="true" signature="6:78" ph="..." />
+                <marker date="1539762640754" expanded="true" signature="121:1081" ph="{...}" />
+                <marker date="1539762640754" expanded="true" signature="225:384" ph="/* public void Start() ... */" />
+                <marker date="1539762640754" expanded="true" signature="414:730" ph="{...}" />
+                <marker date="1539762640754" expanded="true" signature="489:724" ph="/* Button = GetComponent&lt;SpriteRenderer&gt;(); ... */" />
+                <marker date="1539762640754" expanded="true" signature="754:1078" ph="{...}" />
+                <marker date="1539762640754" expanded="true" signature="837:1072" ph="/* Button2 = GetComponent&lt;SpriteRenderer&gt;(); ... */" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="TriggerEnterEvent.cs" pinned="false" current-in-tab="false">
@@ -154,6 +180,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ArrayGrid.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SoundControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneMGR.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -181,6 +208,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ID Scripts/TriggerID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/FloatData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PointManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneMGR.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SoundControl.cs" />
       </list>
     </option>
   </component>
@@ -248,12 +277,12 @@
       <workItem from="1539561574171" duration="14300000" />
       <workItem from="1539630390235" duration="2214000" />
       <workItem from="1539732671705" duration="3802000" />
-      <workItem from="1539744654138" duration="9865000" />
+      <workItem from="1539744654138" duration="12278000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37871000" />
+    <option name="totallyTimeSpent" value="40284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -266,7 +295,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -319,19 +347,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ID Scripts/TriggerID.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <marker date="1539750081307" expanded="false" signature="6:44" ph="..." />
-            <marker date="1539750081307" expanded="true" signature="84:302" ph="{...}" />
-            <marker date="1539750081307" expanded="true" signature="187:300" ph="{...}" />
-            <marker date="1539750081307" expanded="true" signature="244:294" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeSprite.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -345,7 +360,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneMGR.cs">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539759607102" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539759607102" expanded="true" signature="152:325" ph="{...}" />
+            <marker date="1539759607102" expanded="true" signature="204:254" ph="{...}" />
+            <marker date="1539759607102" expanded="true" signature="283:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -364,14 +388,12 @@
         <state relative-caret-position="255">
           <caret line="19" column="8" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
           <folding>
-            <marker date="1539757419977" expanded="false" signature="6:128" ph="..." />
-            <marker date="1539757419977" expanded="true" signature="171:1013" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="296:458" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="487:604" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="634:742" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="765:1011" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="808:885" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="903:1005" ph="{...}" />
+            <marker date="1539757489338" expanded="false" signature="6:128" ph="..." />
+            <marker date="1539757489338" expanded="true" signature="171:907" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="296:458" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="487:604" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="634:742" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="744:905" ph="/* public void Win() ... */" />
           </folding>
         </state>
       </provider>
@@ -621,9 +643,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneMGR.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -710,17 +729,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/PointManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="555">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
           <folding>
-            <marker date="1539757419977" expanded="false" signature="6:128" ph="..." />
-            <marker date="1539757419977" expanded="true" signature="171:1013" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="296:458" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="487:604" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="634:742" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="765:1011" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="808:885" ph="{...}" />
-            <marker date="1539757419977" expanded="true" signature="903:1005" ph="{...}" />
+            <marker date="1539757489338" expanded="false" signature="6:128" ph="..." />
+            <marker date="1539757489338" expanded="true" signature="171:907" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="296:458" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="487:604" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="634:742" ph="{...}" />
+            <marker date="1539757489338" expanded="true" signature="744:905" ph="/* public void Win() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneMGR.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <marker date="1539759607102" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539759607102" expanded="true" signature="152:325" ph="{...}" />
+            <marker date="1539759607102" expanded="true" signature="204:254" ph="{...}" />
+            <marker date="1539759607102" expanded="true" signature="283:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SoundControl.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
+          <folding>
+            <marker date="1539762640754" expanded="true" signature="6:78" ph="..." />
+            <marker date="1539762640754" expanded="true" signature="121:1081" ph="{...}" />
+            <marker date="1539762640754" expanded="true" signature="225:384" ph="/* public void Start() ... */" />
+            <marker date="1539762640754" expanded="true" signature="414:730" ph="{...}" />
+            <marker date="1539762640754" expanded="true" signature="489:724" ph="/* Button = GetComponent&lt;SpriteRenderer&gt;(); ... */" />
+            <marker date="1539762640754" expanded="true" signature="754:1078" ph="{...}" />
+            <marker date="1539762640754" expanded="true" signature="837:1072" ph="/* Button2 = GetComponent&lt;SpriteRenderer&gt;(); ... */" />
           </folding>
         </state>
       </provider>

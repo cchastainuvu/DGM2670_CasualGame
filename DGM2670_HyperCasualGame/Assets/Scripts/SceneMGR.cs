@@ -1,16 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class SceneMGR : MonoBehaviour {
+public class SceneMGR : MonoBehaviour
+{
+    public int Load;
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
+    public void LoadLevel()
+    {
+        SceneManager.LoadScene(Load);
+    }
+
+    public void ExitLevel()
+    {
+        Application.Quit();
+    }
 }
