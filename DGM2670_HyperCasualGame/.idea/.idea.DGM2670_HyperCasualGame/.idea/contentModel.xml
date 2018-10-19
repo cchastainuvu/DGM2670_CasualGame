@@ -12,7 +12,6 @@
         <e p="Scripts" t="Include">
           <e p="ArrayGrid.cs" t="Include" />
           <e p="ChangeColor.cs" t="Include" />
-          <e p="ChangeSprite.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="ID Scripts" t="Include">
@@ -22,6 +21,7 @@
           </e>
           <e p="InstantiateOnClick.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="InvokeOnStart.cs" t="Include" />
           <e p="MouseClickEvent.cs" t="Include" />
           <e p="Objects.cs" t="Include" />
           <e p="PointManager.cs" t="Include" />

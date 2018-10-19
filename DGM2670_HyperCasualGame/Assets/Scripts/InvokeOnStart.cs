@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
-public class ChangeSprite : MonoBehaviour
+public class InvokeOnStart : MonoBehaviour
 {
 
     public UnityEvent OnStart;
@@ -11,10 +11,5 @@ public class ChangeSprite : MonoBehaviour
     public void Start()
     {
         OnStart.Invoke();
-    }
-    
-    public void Invoke (SpriteRenderer obj)
-    {
-        GetComponent<SpriteRenderer>().sprite = obj.sprite;
     }
 }
