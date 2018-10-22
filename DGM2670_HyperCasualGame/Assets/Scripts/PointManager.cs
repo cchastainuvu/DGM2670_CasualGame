@@ -24,7 +24,9 @@ public class PointManager : MonoBehaviour
     {
         count = count + 10;
         Points.text = count.ToString(CultureInfo.InvariantCulture);
-        
+
+        Win();
+
     }
 
     public void TakePoints()
@@ -33,7 +35,7 @@ public class PointManager : MonoBehaviour
         Points.text = count.ToString(CultureInfo.InvariantCulture);
     }
 
-    public void Win()
+    private void Win()
     {
         if (count >= WinScore.value)
         {

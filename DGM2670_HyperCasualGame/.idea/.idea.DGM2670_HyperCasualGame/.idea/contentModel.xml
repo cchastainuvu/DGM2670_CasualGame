@@ -10,7 +10,6 @@
           <e p="Notes1007.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
-          <e p="ArrayGrid.cs" t="Include" />
           <e p="ChangeColor.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />

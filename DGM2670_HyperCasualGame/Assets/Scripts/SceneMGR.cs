@@ -12,6 +12,11 @@ public class SceneMGR : MonoBehaviour
         SceneManager.LoadScene(Load);
     }
 
+//    public void Restart()
+//    {
+//        SceneManager.GetActiveScene();
+//    }
+    
     public void ExitLevel()
     {
         Application.Quit();

@@ -3,7 +3,10 @@ guid: bee4b2be021f55d41bef8a7407733faa
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - Points: {instanceID: 0}
+  - WinText: {instanceID: 0}
+  - WinScore: {fileID: 11400000, guid: 782e5ea3852650249982e6cbe91e5336, type: 2}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 

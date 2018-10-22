@@ -19,9 +19,9 @@ public class InstantiateOnClick : MonoBehaviour
             Filled = true;
         }
 
-        if (Filled)
-        {
-            //Intentionally left blank, to prevent multiple instances and waste.
-        }
+//        if (Filled)
+//        {
+//            //Intentionally left blank, to prevent multiple instances and waste.
+//        }
     }
 }
