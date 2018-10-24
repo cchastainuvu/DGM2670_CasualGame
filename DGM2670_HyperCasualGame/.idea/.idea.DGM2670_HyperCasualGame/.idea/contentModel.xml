@@ -12,21 +12,25 @@
         <e p="Scripts" t="Include">
           <e p="ChangeColor.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
-          <e p="FloatData.cs" t="Include" />
+          <e p="EventInvokes" t="Include">
+            <e p="InvokeOnStart.cs" t="Include" />
+            <e p="TriggerEnterEvent.cs" t="Include" />
+          </e>
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />
             <e p="TriggerID.cs" t="Include" />
           </e>
           <e p="InstantiateOnClick.cs" t="Include" />
-          <e p="IntData.cs" t="Include" />
-          <e p="InvokeOnStart.cs" t="Include" />
           <e p="MouseClickEvent.cs" t="Include" />
           <e p="Objects.cs" t="Include" />
           <e p="PointManager.cs" t="Include" />
           <e p="SceneMGR.cs" t="Include" />
+          <e p="ScriptableObjects" t="Include">
+            <e p="FloatData.cs" t="Include" />
+            <e p="IntData.cs" t="Include" />
+          </e>
           <e p="SoundControl.cs" t="Include" />
-          <e p="TriggerEnterEvent.cs" t="Include" />
         </e>
       </e>
       <e p="DGM2670_HyperCasualGame.sln" t="IncludeFlat" />
