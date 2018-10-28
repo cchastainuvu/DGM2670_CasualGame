@@ -8,8 +8,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e58c91638183e5543b8451f616f4bb05, type: 3}
-  m_Name: LetterStore
+  m_Script: {fileID: 11500000, guid: b7f6d257796780f4a9711ce2b017d285, type: 3}
+  m_Name: NewStore
   m_EditorClassIdentifier: 
   Available: {fileID: 11400000, guid: 2a739bdc2228c7c46bcf7fbda1a58942, type: 2}
   Purchased: {fileID: 11400000, guid: ea85e4c345ecbd3498c0fde67235cd54, type: 2}
+  Cash: {fileID: 11400000, guid: 782e5ea3852650249982e6cbe91e5336, type: 2}
+  TotalValue: 3000

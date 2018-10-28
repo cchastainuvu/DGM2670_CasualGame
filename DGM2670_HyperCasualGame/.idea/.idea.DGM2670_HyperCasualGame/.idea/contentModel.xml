@@ -33,6 +33,7 @@
             <e p="Objects.cs" t="Include" />
             <e p="Store.cs" t="Include" />
           </e>
+          <e p="StoreNEW.cs" t="Include" />
         </e>
       </e>
       <e p="DGM2670_HyperCasualGame.sln" t="IncludeFlat" />
