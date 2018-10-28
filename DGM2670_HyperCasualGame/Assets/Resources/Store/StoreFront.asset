@@ -11,5 +11,3 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58c91638183e5543b8451f616f4bb05, type: 3}
   m_Name: StoreFront
   m_EditorClassIdentifier: 
-  Available: {fileID: 11400000, guid: 2a739bdc2228c7c46bcf7fbda1a58942, type: 2}
-  Purchased: {fileID: 11400000, guid: ea85e4c345ecbd3498c0fde67235cd54, type: 2}

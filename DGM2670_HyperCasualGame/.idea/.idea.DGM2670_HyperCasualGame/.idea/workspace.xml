@@ -73,15 +73,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Store.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Store.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Store.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
               <folding>
                 <marker date="1540694165447" expanded="true" signature="6:78" ph="..." />
                 <marker date="1540694165447" expanded="true" signature="187:659" ph="{...}" />
                 <marker date="1540694165447" expanded="true" signature="191:656" ph="/* public Objects Available; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/FloatData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+              <folding>
+                <marker date="1540703268082" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540703268082" expanded="true" signature="187:345" ph="{...}" />
+                <marker date="1540703268082" expanded="true" signature="257:343" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -99,17 +113,44 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StoreNew.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StoreNew.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/StoreNew.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="435">
+              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
               <folding>
-                <marker date="1540694065788" expanded="true" signature="6:142" ph="..." />
-                <marker date="1540694065788" expanded="true" signature="263:760" ph="{...}" />
-                <marker date="1540694065788" expanded="true" signature="429:758" ph="{...}" />
-                <marker date="1540694065788" expanded="true" signature="495:752" ph="{...}" />
-                <marker date="1540694065788" expanded="true" signature="605:742" ph="{...}" />
+                <marker date="1540703268203" expanded="true" signature="6:142" ph="..." />
+                <marker date="1540703268203" expanded="true" signature="263:1061" ph="{...}" />
+                <marker date="1540703268203" expanded="true" signature="479:1059" ph="{...}" />
+                <marker date="1540703268203" expanded="true" signature="545:1053" ph="{...}" />
+                <marker date="1540703268203" expanded="true" signature="814:1043" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntData.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/IntData.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding>
+                <marker date="1539795316261" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539795316261" expanded="true" signature="120:226" ph="{...}" />
+                <marker date="1539795316261" expanded="true" signature="179:219" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PurchasableObject.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PurchasableObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <marker date="1540702226897" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540702226897" expanded="true" signature="206:260" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -122,6 +163,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PurchasableObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ID Scripts/TriggerID.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StoreNew.cs" root0="FORCE_HIGHLIGHTING" />
@@ -160,8 +204,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Objects.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Store.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/StoreNEW.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/StoreNew.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Store.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PurchasableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/FloatData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StoreNew.cs" />
       </list>
     </option>
   </component>
@@ -236,12 +282,12 @@
       <workItem from="1540230551175" duration="5103000" />
       <workItem from="1540359262679" duration="746000" />
       <workItem from="1540575597112" duration="1789000" />
-      <workItem from="1540680545667" duration="4901000" />
+      <workItem from="1540680545667" duration="10948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58108000" />
+    <option name="totallyTimeSpent" value="64155000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,7 +299,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -307,15 +353,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneMGR.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEnterEvent.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Objects.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Draggable.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -522,6 +559,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Store.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <marker date="1540694165447" expanded="true" signature="6:78" ph="..." />
+            <marker date="1540694165447" expanded="true" signature="187:659" ph="{...}" />
+            <marker date="1540694165447" expanded="true" signature="191:656" ph="/* public Objects Available; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Objects.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -532,28 +581,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StoreNew.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PurchasableObject.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="60">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
           <folding>
-            <marker date="1540694065788" expanded="true" signature="6:142" ph="..." />
-            <marker date="1540694065788" expanded="true" signature="263:760" ph="{...}" />
-            <marker date="1540694065788" expanded="true" signature="429:758" ph="{...}" />
-            <marker date="1540694065788" expanded="true" signature="495:752" ph="{...}" />
-            <marker date="1540694065788" expanded="true" signature="605:742" ph="{...}" />
+            <marker date="1540702226897" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540702226897" expanded="true" signature="206:260" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Store.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/IntData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="165">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
           <folding>
-            <marker date="1540694165447" expanded="true" signature="6:78" ph="..." />
-            <marker date="1540694165447" expanded="true" signature="187:659" ph="{...}" />
-            <marker date="1540694165447" expanded="true" signature="191:656" ph="/* public Objects Available; ... */" />
+            <marker date="1539795316261" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539795316261" expanded="true" signature="120:226" ph="{...}" />
+            <marker date="1539795316261" expanded="true" signature="179:219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/FloatData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <marker date="1540703268082" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540703268082" expanded="true" signature="187:345" ph="{...}" />
+            <marker date="1540703268082" expanded="true" signature="257:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StoreNew.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <marker date="1540703268203" expanded="true" signature="6:142" ph="..." />
+            <marker date="1540703268203" expanded="true" signature="263:1061" ph="{...}" />
+            <marker date="1540703268203" expanded="true" signature="479:1059" ph="{...}" />
+            <marker date="1540703268203" expanded="true" signature="545:1053" ph="{...}" />
+            <marker date="1540703268203" expanded="true" signature="814:1043" ph="{...}" />
           </folding>
         </state>
       </provider>
