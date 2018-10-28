@@ -90,12 +90,12 @@
       <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="150">
+              <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
               <folding>
-                <marker date="1540703268082" expanded="false" signature="6:78" ph="..." />
-                <marker date="1540703268082" expanded="true" signature="187:345" ph="{...}" />
-                <marker date="1540703268082" expanded="true" signature="257:343" ph="{...}" />
+                <marker date="1540705326696" expanded="false" signature="6:78" ph="..." />
+                <marker date="1540705326696" expanded="true" signature="187:347" ph="{...}" />
+                <marker date="1540705326696" expanded="true" signature="257:345" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -116,14 +116,18 @@
       <file leaf-file-name="StoreNew.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/StoreNew.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+            <state relative-caret-position="482">
+              <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
               <folding>
-                <marker date="1540703268203" expanded="true" signature="6:142" ph="..." />
-                <marker date="1540703268203" expanded="true" signature="263:1061" ph="{...}" />
-                <marker date="1540703268203" expanded="true" signature="479:1059" ph="{...}" />
-                <marker date="1540703268203" expanded="true" signature="545:1053" ph="{...}" />
-                <marker date="1540703268203" expanded="true" signature="814:1043" ph="{...}" />
+                <marker date="1540706857854" expanded="true" signature="6:142" ph="..." />
+                <marker date="1540706857854" expanded="true" signature="263:1627" ph="{...}" />
+                <marker date="1540706857854" expanded="true" signature="391:512" ph="/* 20 less than the 2 locked levels total ... */" />
+                <marker date="1540706857854" expanded="true" signature="602:1300" ph="{...}" />
+                <marker date="1540706857854" expanded="true" signature="668:1294" ph="{...}" />
+                <marker date="1540706857854" expanded="true" signature="937:1284" ph="{...}" />
+                <marker date="1540706857854" expanded="true" signature="1331:1625" ph="{...}" />
+                <marker date="1540706857854" expanded="true" signature="1375:1619" ph="{...}" />
+                <marker date="1540706857854" expanded="true" signature="1440:1609" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -282,12 +286,12 @@
       <workItem from="1540230551175" duration="5103000" />
       <workItem from="1540359262679" duration="746000" />
       <workItem from="1540575597112" duration="1789000" />
-      <workItem from="1540680545667" duration="10948000" />
+      <workItem from="1540680545667" duration="13016000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64155000" />
+    <option name="totallyTimeSpent" value="66223000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -299,7 +303,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -606,26 +610,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="150">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
           <folding>
-            <marker date="1540703268082" expanded="false" signature="6:78" ph="..." />
-            <marker date="1540703268082" expanded="true" signature="187:345" ph="{...}" />
-            <marker date="1540703268082" expanded="true" signature="257:343" ph="{...}" />
+            <marker date="1540705326696" expanded="false" signature="6:78" ph="..." />
+            <marker date="1540705326696" expanded="true" signature="187:347" ph="{...}" />
+            <marker date="1540705326696" expanded="true" signature="257:345" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/StoreNew.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="38" lean-forward="true" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+        <state relative-caret-position="482">
+          <caret line="44" column="47" lean-forward="true" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
           <folding>
-            <marker date="1540703268203" expanded="true" signature="6:142" ph="..." />
-            <marker date="1540703268203" expanded="true" signature="263:1061" ph="{...}" />
-            <marker date="1540703268203" expanded="true" signature="479:1059" ph="{...}" />
-            <marker date="1540703268203" expanded="true" signature="545:1053" ph="{...}" />
-            <marker date="1540703268203" expanded="true" signature="814:1043" ph="{...}" />
+            <marker date="1540706857854" expanded="true" signature="6:142" ph="..." />
+            <marker date="1540706857854" expanded="true" signature="263:1627" ph="{...}" />
+            <marker date="1540706857854" expanded="true" signature="391:512" ph="/* 20 less than the 2 locked levels total ... */" />
+            <marker date="1540706857854" expanded="true" signature="602:1300" ph="{...}" />
+            <marker date="1540706857854" expanded="true" signature="668:1294" ph="{...}" />
+            <marker date="1540706857854" expanded="true" signature="937:1284" ph="{...}" />
+            <marker date="1540706857854" expanded="true" signature="1331:1625" ph="{...}" />
+            <marker date="1540706857854" expanded="true" signature="1375:1619" ph="{...}" />
+            <marker date="1540706857854" expanded="true" signature="1440:1609" ph="{...}" />
           </folding>
         </state>
       </provider>
