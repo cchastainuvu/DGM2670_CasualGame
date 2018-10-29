@@ -26,7 +26,6 @@ public class StoreNew : ScriptableObject
 
             if (availableObject == obj && Cash.Value >= availableObject.Value)
             {
-                //Unsure why this is throwing an error, our FloatData scripts are the same. Same occurs with IntData.
                 Cash.Value -= availableObject.Value;
                 Purchased.ObjectList.Add(obj);
                 Available.ObjectList.Remove(availableObject);

@@ -37,7 +37,7 @@ public class PointManager : MonoBehaviour
 
     private void Win()
     {
-        if (count >= WinScore.value)
+        if (count >= WinScore.Value)
         {
             WinText.GetComponent<Text>().enabled = true;
             //STILL A WORK IN PROGRESS.
