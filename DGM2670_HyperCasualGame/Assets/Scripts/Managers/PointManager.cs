@@ -1,22 +1,27 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
+using JetBrains.Annotations;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public class PointManager : MonoBehaviour
 {
     private float count;
     public Text Points;
-    public Text WinText;
+//    public Text WinText;
+    
     public FloatData WinScore;
+
+    public UnityEvent OnWin;
 
     void Start()
     {
         count = 0;
         Points.text = count.ToString(CultureInfo.InvariantCulture);
         
-        WinText.GetComponent<Text>().enabled = false;
+//        WinText.GetComponent<Text>().enabled = false;
         
     }
 
@@ -39,8 +44,11 @@ public class PointManager : MonoBehaviour
     {
         if (count >= WinScore.Value)
         {
-            WinText.GetComponent<Text>().enabled = true;
-            //STILL A WORK IN PROGRESS.
+
+            OnWin.Invoke();
+//            WinText.GetComponent<Text>().enabled = true;
+//            //STILL A WORK IN PROGRESS.
+
         }
     }
 }
