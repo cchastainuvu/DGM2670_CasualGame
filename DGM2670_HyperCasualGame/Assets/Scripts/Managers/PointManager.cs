@@ -19,7 +19,7 @@ public class PointManager : MonoBehaviour
     void Start()
     {
         count = 0;
-        Points.text = count.ToString(CultureInfo.InvariantCulture);
+        Points.text = count.ToString(CultureInfo.InvariantCulture) + " / " + WinScore.Value.ToString(CultureInfo.InvariantCulture);
         
 //        WinText.GetComponent<Text>().enabled = false;
         
@@ -28,7 +28,7 @@ public class PointManager : MonoBehaviour
     public void AddPoints()
     {
         count = count + 10;
-        Points.text = count.ToString(CultureInfo.InvariantCulture);
+        Points.text = count.ToString(CultureInfo.InvariantCulture) + " / " + WinScore.Value.ToString(CultureInfo.InvariantCulture);
 
         Win();
 
@@ -37,7 +37,7 @@ public class PointManager : MonoBehaviour
     public void TakePoints()
     {
         count = count - 10;
-        Points.text = count.ToString(CultureInfo.InvariantCulture);
+        Points.text = count.ToString(CultureInfo.InvariantCulture) + " / " + WinScore.Value;
     }
 
     private void Win()
