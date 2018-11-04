@@ -665,109 +665,7 @@ Transform:
   - {fileID: 1591375751}
   - {fileID: 1841164281}
   m_Father: {fileID: 0}
-  m_RootOrder: 14
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &185051554
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  serializedVersion: 5
-  m_Component:
-  - component: {fileID: 185051557}
-  - component: {fileID: 185051555}
-  - component: {fileID: 185051556}
-  m_Layer: 0
-  m_Name: Kitty
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &185051555
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 185051554}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 4294967295
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 21300004, guid: bed3a96189c9027458064d936dbab439, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 3.35, y: 1.13}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
---- !u!114 &185051556
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 185051554}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0355aa3b28094547a7a697b37e2b1c0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  OnStart:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 185051555}
-        m_MethodName: set_enabled
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
-    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
-      Culture=neutral, PublicKeyToken=null
---- !u!4 &185051557
-Transform:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 185051554}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.1075416, y: -0.65971637, z: 0.8206832}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 515451140}
-  m_RootOrder: 1
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &206228510
 GameObject:
@@ -804,7 +702,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 206228510}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.424728, y: -2.3487134, z: -0.03383184}
+  m_LocalPosition: {x: -11.09, y: -2.3487134, z: -0.03383184}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1175,7 +1073,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &364434295
 GameObject:
@@ -1546,12 +1444,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1574,7 +1472,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 458167826}
   Filled: 0
 --- !u!54 &458167829
@@ -1719,7 +1617,7 @@ Prefab:
         type: 2}
       propertyPath: OnWin.m_PersistentCalls.m_Calls.Array.data[1].m_Target
       value: 
-      objectReference: {fileID: 185051555}
+      objectReference: {fileID: 1529144872}
     - target: {fileID: 114402877010651576, guid: bcec271b7717e4b42ab35fa5efbc95e1,
         type: 2}
       propertyPath: OnWin.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
@@ -1813,8 +1711,19 @@ Prefab:
     - target: {fileID: 114806333352615354, guid: bcec271b7717e4b42ab35fa5efbc95e1,
         type: 2}
       propertyPath: m_Text
-      value: 0
+      value: 
       objectReference: {fileID: 0}
+    - target: {fileID: 114402877010651576, guid: bcec271b7717e4b42ab35fa5efbc95e1,
+        type: 2}
+      propertyPath: OnWin.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: set_enabled
+      objectReference: {fileID: 0}
+    - target: {fileID: 114402877010651576, guid: bcec271b7717e4b42ab35fa5efbc95e1,
+        type: 2}
+      propertyPath: WinScore
+      value: 
+      objectReference: {fileID: 11400000, guid: 48be16e6f176bf848a644db0e2d0013c,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bcec271b7717e4b42ab35fa5efbc95e1, type: 2}
   m_IsPrefabParent: 0
@@ -1918,9 +1827,9 @@ Transform:
   m_LocalScale: {x: 0.7775736, y: 0.7775735, z: 0.7775735}
   m_Children:
   - {fileID: 1471849336}
-  - {fileID: 185051557}
+  - {fileID: 1529144874}
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &550300748
 GameObject:
@@ -2194,12 +2103,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2222,7 +2131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 606492266}
   Filled: 0
 --- !u!54 &606492269
@@ -2595,7 +2504,7 @@ Transform:
   - {fileID: 2137369312}
   - {fileID: 1444352899}
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &778163102
 GameObject:
@@ -2714,12 +2623,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -2742,7 +2651,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 828327562}
   Filled: 0
 --- !u!54 &828327565
@@ -3240,7 +3149,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4795958496740356, guid: 526b76c02f35e6c4eac55014a8b2616d, type: 2}
       propertyPath: m_RootOrder
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 114150358229867188, guid: 526b76c02f35e6c4eac55014a8b2616d,
         type: 2}
@@ -3834,7 +3743,7 @@ Transform:
   - {fileID: 2045930140}
   - {fileID: 2101858513}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1098440374
 GameObject:
@@ -4129,12 +4038,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4157,7 +4066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 1119092621}
   Filled: 0
 --- !u!54 &1119092624
@@ -4727,12 +4636,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -4755,7 +4664,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 1215603132}
   Filled: 0
 --- !u!54 &1215603135
@@ -5068,12 +4977,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5096,7 +5005,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 1350231445}
   Filled: 0
 --- !u!54 &1350231448
@@ -5169,12 +5078,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
+  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: TakePoints
+        m_MethodName: AddPoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -5197,7 +5106,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
+  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
   Space: {fileID: 1357871500}
   Filled: 0
 --- !u!54 &1357871503
@@ -6269,6 +6178,108 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.94, y: 0.91, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!1 &1529144871
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1529144874}
+  - component: {fileID: 1529144872}
+  - component: {fileID: 1529144873}
+  m_Layer: 0
+  m_Name: Chess
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1529144872
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1529144871}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 4294967295
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 0
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 21300006, guid: bed3a96189c9027458064d936dbab439, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.73, y: 1.1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+--- !u!114 &1529144873
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1529144871}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0355aa3b28094547a7a697b37e2b1c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnStart:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1529144872}
+        m_MethodName: set_enabled
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
+      Culture=neutral, PublicKeyToken=null
+--- !u!4 &1529144874
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1529144871}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.1091256, y: -0.65588653, z: -1.5868342}
+  m_LocalScale: {x: 0.98202956, y: 0.98202944, z: 0.98202944}
+  m_Children: []
+  m_Father: {fileID: 515451140}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1553633731 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114402877010651576, guid: bcec271b7717e4b42ab35fa5efbc95e1,
@@ -6471,12 +6482,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6499,7 +6510,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 1591375751}
   Filled: 0
 --- !u!54 &1591375754
@@ -6820,7 +6831,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4011498632071032, guid: ff96984a0b24e984e9d6f1d8f7c07697, type: 2}
       propertyPath: m_RootOrder
-      value: 17
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 114676380554740598, guid: ff96984a0b24e984e9d6f1d8f7c07697,
         type: 2}
@@ -7368,12 +7379,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7396,7 +7407,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 1787115583}
   Filled: 0
 --- !u!54 &1787115586
@@ -7861,12 +7872,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f38951f65ac3f5449a46fe96c8c4128a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ID: {fileID: 11400000, guid: 9a54abd6a9f6b2241867f1d6a489b2ce, type: 2}
+  ID: {fileID: 11400000, guid: 613f3494443313d48b8f69a079140ee8, type: 2}
   OnMatch:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1553633731}
-        m_MethodName: AddPoints
+        m_MethodName: TakePoints
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -7889,7 +7900,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a7aadce6c4d5fa94faa77af2f2e80778, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Fill: {fileID: 4601365025235352, guid: 8c7d81a73640ae0408ac56b67a0ad2cf, type: 2}
+  Fill: {fileID: 4158906721956726, guid: 508351227878f43408e329de89984dda, type: 2}
   Space: {fileID: 1869782448}
   Filled: 0
 --- !u!54 &1869782451
@@ -7946,7 +7957,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8a9f46d02d01c734f882fcf7d7c732b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Load: 2
+  Load: 3
 --- !u!4 &1880308990
 Transform:
   m_ObjectHideFlags: 0
@@ -7954,7 +7965,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1880308988}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.424728, y: -2.3487134, z: -0.03383184}
+  m_LocalPosition: {x: -9.71, y: -2.15, z: -0.03383184}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
