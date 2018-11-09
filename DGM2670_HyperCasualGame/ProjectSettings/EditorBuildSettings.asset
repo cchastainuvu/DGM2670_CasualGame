@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GramCrackers/Level02.unity
     guid: 071d7ce1cc7b01646bef251b8b052b6d
+  - enabled: 1
+    path: Assets/Scenes/GramCrackers/Level03.unity
+    guid: 420b08991f8a44e45b6118ef776fe05f
   m_configObjects: {}
