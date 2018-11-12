@@ -19,6 +19,7 @@
             <e p="OnMouseExitEvent.cs" t="Include" />
             <e p="TriggerEnterEvent.cs" t="Include" />
           </e>
+          <e p="FollowMouse.cs" t="Include" />
           <e p="ID Scripts" t="Include">
             <e p="NameID.cs" t="Include" />
             <e p="ObjectID.cs" t="Include" />

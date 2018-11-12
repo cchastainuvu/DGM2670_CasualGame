@@ -11,22 +11,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ChangeColor.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="7" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-              <folding>
-                <marker date="1539583345875" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539583345875" expanded="true" signature="163:655" ph="{...}" />
-                <marker date="1539583345875" expanded="true" signature="232:302" ph="{...}" />
-                <marker date="1539583345875" expanded="true" signature="312:499" ph="/* OLD RENDITION ... */" />
-                <marker date="1539583345875" expanded="true" signature="510:648" ph="/* NEW RENDITION ... */" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="FloatData.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/FloatData.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -73,11 +57,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PointManager.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PointManager.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/PointManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+            <state relative-caret-position="420">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <marker date="1541019963457" expanded="false" signature="6:183" ph="..." />
                 <marker date="1541019963457" expanded="true" signature="226:1232" ph="{...}" />
@@ -87,6 +71,20 @@
                 <marker date="1541019963457" expanded="true" signature="1030:1230" ph="{...}" />
                 <marker date="1541019963457" expanded="true" signature="1073:1224" ph="{...}" />
                 <marker date="1541019963457" expanded="true" signature="1113:1213" ph="/* WinText.GetComponent&lt;Text&gt;().enabled = true; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FollowMouse.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowMouse.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1542054235822" expanded="false" signature="6:78" ph="..." />
+                <marker date="1542054235822" expanded="true" signature="121:553" ph="{...}" />
+                <marker date="1542054235822" expanded="true" signature="292:551" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -180,6 +178,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstantiateOnClick.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/Objects.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FollowMouse.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventInvokes/InvokeOnStart.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -219,10 +218,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/EventInvokes/OnHoverEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/EventInvokes/OnMouseEnterEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Managers/PointManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FollowMouse.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1170" />
     <option name="y" value="10" />
     <option name="width" value="755" />
@@ -234,11 +234,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -297,11 +297,12 @@
       <workItem from="1540840065975" duration="1768000" />
       <workItem from="1541004137703" duration="4050000" />
       <workItem from="1541308275761" duration="687000" />
+      <workItem from="1542053714297" duration="1133000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72728000" />
+    <option name="totallyTimeSpent" value="73861000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -314,6 +315,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -343,12 +345,12 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Unity" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1261745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Unit Tests" order="10" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
@@ -356,7 +358,7 @@
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -366,7 +368,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MouseClickEvent.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Notes/Notes1006.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -587,8 +588,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Managers/PointManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <marker date="1541019963457" expanded="false" signature="6:183" ph="..." />
             <marker date="1541019963457" expanded="true" signature="226:1232" ph="{...}" />
@@ -598,6 +599,18 @@
             <marker date="1541019963457" expanded="true" signature="1030:1230" ph="{...}" />
             <marker date="1541019963457" expanded="true" signature="1073:1224" ph="{...}" />
             <marker date="1541019963457" expanded="true" signature="1113:1213" ph="/* WinText.GetComponent&lt;Text&gt;().enabled = true; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FollowMouse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1542054235822" expanded="false" signature="6:78" ph="..." />
+            <marker date="1542054235822" expanded="true" signature="121:553" ph="{...}" />
+            <marker date="1542054235822" expanded="true" signature="292:551" ph="{...}" />
           </folding>
         </state>
       </provider>
