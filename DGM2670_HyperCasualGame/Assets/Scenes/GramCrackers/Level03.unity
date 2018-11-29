@@ -2395,6 +2395,12 @@ Prefab:
       propertyPath: m_LocalScale.z
       value: 0.75935495
       objectReference: {fileID: 0}
+    - target: {fileID: 114402877010651576, guid: bcec271b7717e4b42ab35fa5efbc95e1,
+        type: 2}
+      propertyPath: Wallet
+      value: 
+      objectReference: {fileID: 11400000, guid: 2f21a46fece0ae446b1b260ab6558a64,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: bcec271b7717e4b42ab35fa5efbc95e1, type: 2}
   m_IsPrefabParent: 0
