@@ -11,13 +11,15 @@ public class PointManager : MonoBehaviour
     private float count;
     public Text Points;
 
-    public FloatData Wallet,WinScore;
+    public FloatData WinScore;
+    public float Wallet;
 
     public UnityEvent OnWin;
 
     void Start()
     {
         count = 0;
+        Wallet = 0;
         Points.text = count.ToString(CultureInfo.InvariantCulture) + " / " + WinScore.Value.ToString(CultureInfo.InvariantCulture);
     }
 
@@ -40,9 +42,13 @@ public class PointManager : MonoBehaviour
     {
         if (count >= WinScore.Value)
         {
-            Wallet.Value = Wallet.Value + WinScore.Value;
-            OnWin.Invoke();
+            Wallet = Wallet + WinScore.Value;
             //Would like this to add points to the player's "wallet" after they solve the level.
+
+            OnWin.Invoke();
+            //This works fine.
         }
+
     }
+    
 }
