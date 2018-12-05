@@ -39,6 +39,9 @@ public class NewPointManager : MonoBehaviour
         Points.text = Count.ToString(CultureInfo.InvariantCulture) + " / " + WinScore.Value;
     }
 
+    
+    //UNLOCK EVENT FUNCTIONS//
+    
     private void Win()
     {
         if (Count >= WinScore.Value)

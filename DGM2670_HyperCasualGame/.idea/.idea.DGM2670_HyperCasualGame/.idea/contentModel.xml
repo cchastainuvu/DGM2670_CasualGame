@@ -10,6 +10,10 @@
           <e p="Notes1007.cs" t="Include" />
         </e>
         <e p="Scripts" t="Include">
+          <e p="AR" t="Include">
+            <e p="PurchasableObject.cs" t="Include" />
+            <e p="StoreNEW.cs" t="Include" />
+          </e>
           <e p="ChangeColor.cs" t="Include" />
           <e p="Draggable.cs" t="Include" />
           <e p="EventInvokes" t="Include">
@@ -27,17 +31,14 @@
           </e>
           <e p="InstantiateOnClick.cs" t="Include" />
           <e p="Managers" t="Include">
-            <e p="PointManager.cs" t="Include" />
+            <e p="NewPointManager.cs" t="Include" />
             <e p="SceneMGR.cs" t="Include" />
           </e>
-          <e p="NewPointManager.cs" t="Include" />
-          <e p="PurchasableObject.cs" t="Include" />
           <e p="ScriptableObjects" t="Include">
             <e p="FloatData.cs" t="Include" />
             <e p="IntData.cs" t="Include" />
             <e p="Objects.cs" t="Include" />
           </e>
-          <e p="StoreNEW.cs" t="Include" />
         </e>
       </e>
       <e p="DGM2670_HyperCasualGame.sln" t="IncludeFlat" />
