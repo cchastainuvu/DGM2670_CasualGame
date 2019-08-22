@@ -18,10 +18,5 @@ public class InstantiateOnClick : MonoBehaviour
            Instantiate(Fill,Space.transform.position,Space.transform.rotation);
             Filled = true;
         }
-
-//        if (Filled)
-//        {
-//            //Intentionally left blank, to prevent multiple instances and waste.
-//        }
     }
 }
